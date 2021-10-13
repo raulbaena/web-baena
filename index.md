@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/raulbaena/web-baena/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Como me considero?
+Soy responsable y trabajador con ambiciones en la vida, capaz de hacer y mantener relaciones interprofesionales.
+Experiencia en la gestión de sistemas, he sido capaz de adaptarme a los diferentes planes informáticos de las empresas para las que he trabajado.
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
