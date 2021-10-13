@@ -1,8 +1,5 @@
 ## Carta de presentación
-
-You can use the [editor on GitHub](https://github.com/raulbaena/web-baena/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mi nombre es Raul Baena, actualmente soy Sysadmin. Ya llevo 8 años de dedicados en el mundo de la informatica de manera profesional, formandome y adquiriendo conocimientos que me han ayudado a desarrollarme de manera profesional y personal.
 
 ### Como me considero?
 Soy responsable y trabajador con ambiciones en la vida, capaz de hacer y mantener relaciones interprofesionales.
