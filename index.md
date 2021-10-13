@@ -3,7 +3,7 @@ Mi nombre es Raul Baena, actualmente soy Sysadmin. Ya llevo 8 años dedicados en
 
 ![image](/docs/assets/raul.PNG)
 
-### Como me considero?
+### ¿Como me considero?
 Soy responsable y trabajador con ambiciones en la vida, capaz de hacer y mantener relaciones interprofesionales.
 Experiencia en la gestión de sistemas, he sido capaz de adaptarme a los diferentes planes informáticos de las empresas para las que he trabajado.
 
