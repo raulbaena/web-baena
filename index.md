@@ -23,6 +23,6 @@ UPCNET | 2021, Barcelona
 
 ### Trabajo de final de curso
 
-![Book logo](web-baena/docs/assets/youtube.jpg)
+![image](/docs/assets/youtube.jpg)
 
 https://www.youtube.com/watch?v=P29oRkf62Ho
