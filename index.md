@@ -29,5 +29,4 @@ UPCNET | 2021, Barcelona
 
 [hyperlink]: https://www.youtube.com/watch?v=P29oRkf62Ho
 [image]:
-https://www.gravatar.com/avatar/dd5a7ef1476fb01998a215b1642dfd07
-(tooltip)
+https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-zaoiLHspoKI%2FXeI_0uFAeCI%2FAAAAAAAAF38%2FCyHgdY8bdOQ7d979yOJ0voSIA8b5bAF2wCLcBGAsYHQ%2Fs1600%2FYoutube-Icon-2000x2000.png&f=1&nofb=1
