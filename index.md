@@ -27,7 +27,7 @@ UPCNET | 2021, Barcelona
 
 [![alt text][image]][hyperlink]
 
-
-[!image](/docs/assets/youtube.jpg)
-
-[hyperlink]:https://www.youtube.com/watch?v=P29oRkf62Ho
+[hyperlink]: https://meta.stackoverflow.com/users/44330/jason-s
+[image]:
+https://www.gravatar.com/avatar/dd5a7ef1476fb01998a215b1642dfd07
+(tooltip)
