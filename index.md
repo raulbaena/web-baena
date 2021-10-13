@@ -25,5 +25,4 @@ UPCNET | 2021, Barcelona
 
 ### Trabajo de final de curso
 
-https://www.youtube.com/watch?v=P29oRkf62Ho
-
+[links text](https://www.youtube.com/watch?v=P29oRkf62Ho)
