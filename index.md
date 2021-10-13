@@ -28,4 +28,4 @@ UPCNET | 2021, Barcelona
 [![alt text][image]][hyperlink]
 
 [hyperlink]: https://www.youtube.com/watch?v=P29oRkf62Ho
-![image](/docs/assets/raul.PNG)
+[image](/docs/assets/raul.PNG)
