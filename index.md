@@ -1,5 +1,6 @@
 ## Carta de presentación
 Mi nombre es Raul Baena, actualmente soy Sysadmin. Ya llevo 8 años dedicados en el mundo de la informatica de manera profesional, formandome y adquiriendo conocimientos que me han ayudado a desarrollarme de manera profesional y personal.
+![image](/docs/assets/raul.PNG)
 
 ### Como me considero?
 Soy responsable y trabajador con ambiciones en la vida, capaz de hacer y mantener relaciones interprofesionales.
