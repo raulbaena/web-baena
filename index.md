@@ -20,3 +20,7 @@ Linkia FP | 2016 - 2020, Barcelona
 **SysOps en AWS.**
 
 UPCNET | 2021, Barcelona
+
+### Trabajo de final de curso
+
+https://www.youtube.com/watch?v=P29oRkf62Ho
