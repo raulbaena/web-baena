@@ -7,10 +7,10 @@ My name is Raul Baena, I am currently Sysadmin. I have spent 8 years in the comp
 I am responsible and hard-working with ambitions in life, capable of making and maintaining inter-professional relationships.
 Experience in systems management, I have been able to adapt to the different IT plans of the companies for which I have worked.
 
-### Aficiones
-Me gusta salir y disfrutar de mi familia y amigos. Siempre estoy intentando aprender diferentes ramas de la informatica, actualmente estoy aprendiendo Ethical Hacking dado que me estoy enfocando en el mundo de la ciberseguridad
-
 ### Hobbies
+I like to go out and enjoy my family and friends. I am always trying to learn different branches of computer science, I am currently learning Ethical Hacking since I am focusing on the world of cybersecurity
+
+### Education
 **Middle degree course in Microinformatics Systems and Networks.**
 
 IES Torre Roja | 2013 - 2015, Viladecans
